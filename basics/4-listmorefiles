@@ -1,2 +1,2 @@
 #!/bin/bash
-half_life
+ls -la
