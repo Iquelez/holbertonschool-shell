@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -u input-file
+sort input-file > uniq > output-file
