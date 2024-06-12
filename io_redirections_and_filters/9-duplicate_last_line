@@ -1,2 +1,2 @@
 #!/bin/bash
-cp iacta_0 iacta_tmp && tail -1 iacta_tmp >> iacta_tmp && cat iacta_tmp
+tail -n 1 iacta >> iacta
