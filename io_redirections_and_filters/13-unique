@@ -1,2 +1,2 @@
 #!/bin/bash
-get list of wirds from user input read -a words <<< "$(printf "%s" "$@)"	
+read -a words <<< "$(printf "%s" "$@)"
