@@ -1,2 +1,2 @@
 #!/bin/bash
-finde 
+finde -type d ! -path . | wc -l 
