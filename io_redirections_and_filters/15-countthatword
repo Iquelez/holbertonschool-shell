@@ -1,2 +1,2 @@
 #!/bin/bash
-fmemk
+grep bin /etc/passwd | wc -l
