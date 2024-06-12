@@ -1,2 +1,2 @@
 #!/bin/bash
-sort input-file > uniq > output-file
+get list of wirds from user input read -a words <<< "$(printf "%s" "$@)"	
